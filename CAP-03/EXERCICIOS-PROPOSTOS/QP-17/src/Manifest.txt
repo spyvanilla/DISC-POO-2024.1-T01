@@ -1,1 +1,1 @@
-Main-Class: br.edu.principal.Principal
+Main-Class: QP
