@@ -67,7 +67,7 @@ public class QP {
             keys.put('v', 86);
             keys.put('x', 88);
 
-            String cdCommand1 = "cd DISC-POO-2024.1-T01-LEVI";
+            String cdCommand1 = "cd DISC-POO-2024.1-T01";
             String cdCommand2 = "cd CAP-03";
             String cdCommand3 = "cd EXERCICIOS-PROPOSTOS";
             String cdCommand4 = "cd QP-04";
